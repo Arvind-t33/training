@@ -1,1 +1,5 @@
 # training
+
+
+
+almost completed training
